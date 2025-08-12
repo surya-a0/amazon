@@ -1,0 +1,302 @@
+amazons shopping 
+<title>Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in'</title>
+
+
+
+<div class="container">
+  <nav>
+    <div class="logo">
+      <img decoding="async" src="main-assets/logo.png" alt="main-logo">
+      <span>.in</span>
+    </div>
+
+    <div class="set_location ln-height border">
+      <p class="first-line">Delivering to Patna 800020</p>
+      <p class="second-line">
+        <i class="fa-solid fa-location-dot"></i>
+        Update location
+      </p>
+    </div>
+
+    <div class="search_box">
+      <div>All <i class="fa-solid fa-caret-down"></i></div>
+
+      <div class="camera_search">
+        <i class="fa-solid fa-camera"></i>
+      </div>
+      <div class="search">
+        <i class="fa-solid fa-magnifying-glass"></i>
+      </div>
+    </div>
+
+    <div class="choose_country border">
+      <div class="flag">
+        <img decoding="async" src="main-assets/indian flag.png" alt="country flag" height="25px" />
+      </div>
+
+        IN
+        EN
+        US
+
+    </div>
+
+    <div class="ac_info ln-height border">
+      <p class="first-line">Hello, sign in</p>
+      <p class="second-line">Accounts &amp; Lists <i class="fa-solid fa-caret-down"></i></p>
+    </div>
+
+    <div class="orders ln-height border">
+      <p class="first-line">Returns</p>
+      <p class="second-line">&amp; Orders</p>
+    </div>
+
+    <div class="cart border">
+      <i class="fa-solid fa-cart-arrow-down"></i>
+      <p class="second-line">Cart</p>
+    </div>
+  </nav>
+
+  <div class="menuBar">
+    <ul>
+      <a href="" class="border">
+        <i class="fa-solid fa-bars"></i>
+        <span>All</span>
+      </a>
+      <a class="border">Amazon miniTV</a>
+      <a class="border">Sell</a>
+      <a class="border">Best Sellers</a>
+      <a class="border">Mobiles</a>
+      <a class="border">Today's Deals</a>
+      <a class="border">New Releases</a>
+      <a class="border">Customer Service</a>
+      <a class="border">
+
+          Prime
+          Free
+          Premium
+
+      </a>
+      <a class="border">Electronics</a>
+      <a class="border">Gift Ideas</a>
+      <a class="border">Fashion</a>
+    </ul>
+
+    <div class="location">
+      <i class="fa-solid fa-location-dot"></i>
+      <p>Select a location to see product availabilty</p>
+      <i class="fa-solid fa-angle-down"></i>
+    </div>
+  </div>
+
+  <div class="quickLink">
+    <h2>Amazon Fashion</h2>
+    <ul>
+      <a>Women</a>
+      <a>Men</a>
+      <a>Kids</a>
+      <a>Bags &amp; Luggage</a>
+      <a>Sportswear</a>
+      <a>Sales &amp; Deals</a>
+    </ul>
+    <div>
+      <p>30 DAY RETURNS</p>
+      <p>Restrictions Apply</p>
+    </div>
+  </div>
+
+  <div class="heroPage">
+    <div class="linearShade"></div>
+  </div>
+
+  <div class="cards">
+    <!-- card 1 -->
+    <div class="card">
+      <div class="cardHeading">
+        Bluetooth Calling Smartwatch starts at ₹1,999
+      </div>
+      <img decoding="async" src="assets/Watch.jpg" alt="" />
+      <a href="">Shop Now</a>
+    </div>
+    <!-- card 2 -->
+    <div class="card">
+      <div class="cardHeading">Revamp your home in style</div>
+      <div class="cardContainer">
+        <div class="product">
+          <img decoding="async" src="assets/A1.jpg" alt="" />
+          <p>Home decor</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/A2.jpg" alt="" />
+          <p>Home furnishings</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/A3.jpg" alt="" />
+          <p>Home storage</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/A4.jpg" alt="" />
+          <p>Lighting solutions</p>
+        </div>
+      </div>
+      <a href="">Explore all</a>
+    </div>
+    <!-- card 3 -->
+    <div class="card">
+      <div class="cardHeading">Up to 75% off | Headphones</div>
+      <div class="cardContainer">
+        <div class="product">
+          <img decoding="async" src="assets/B1.jpg" alt="" />
+          <p>Up to 75% off | boAt</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/B2.jpg" alt="" />
+          <p>Up to 75% off | boult</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/B3.jpg" alt="" />
+          <p>Up to 75% off | Noise</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/B4.jpg" alt="" />
+          <p>Up to 75% off | Zebronics</p>
+        </div>
+      </div>
+      <a href="">See all offers</a>
+    </div>
+    <!-- card 4 -->
+    <div class="card">
+      <div class="cardHeading">Up to 70% off | Styles for men</div>
+      <div class="cardContainer">
+        <div class="product">
+          <img decoding="async" src="assets/C1.jpg" alt="" />
+          <p>Clothing</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/C2.jpg" alt="" />
+          <p>Footwear</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/C3.jpg" alt="" />
+          <p>Watches</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/C4.jpg" alt="" />
+          <p>Bags &amp; wallet</p>
+        </div>
+      </div>
+      <a href="">Mega Fashion Days</a>
+    </div>
+    <!-- card 5 -->
+    <div class="card">
+      <div class="cardHeading">
+        Starting ₹99 | All your home improvement needs
+      </div>
+      <div class="cardContainer">
+        <div class="product">
+          <img decoding="async" src="assets/D1.jpg" alt="" />
+          <p>Spin mops, wipes &amp; more</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/D2.jpg" alt="" />
+          <p>Bathromm hardware &amp; accessories</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/D3.jpg" alt="" />
+          <p>Hammers, screwdrivers &amp; more</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/D4.jpg" alt="" />
+          <p>Extension boards, plugs &amp; more</p>
+        </div>
+      </div>
+      <a href="">Explore all</a>
+    </div>
+    <!-- card 6 -->
+    <div class="card">
+      <div class="cardHeading">
+        Starting ₹99 | All your home improvement needs
+      </div>
+      <div class="cardContainer">
+        <div class="product">
+          <img decoding="async" src="assets/E1.jpg" alt="" />
+          <p>Gaming Accessories</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/E2.jpg" alt="" />
+          <p>Keyboard and Mice</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/E3.jpg" alt="" />
+          <p>Stands, Cables &amp; more</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/E4.jpg" alt="" />
+          <p>Backpacks</p>
+        </div>
+      </div>
+      <a href="">See all offers</a>
+    </div>
+    <!-- card 7 -->
+    <div class="card">
+      <div class="cardHeading">Up to 70% off | Styles for women</div>
+      <div class="cardContainer">
+        <div class="product">
+          <img decoding="async" src="assets/F1.jpg" alt="" />
+          <p>Women's Clothing</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/F2.jpg" alt="" />
+          <p>Footwear+Handbags</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/F3.jpg" alt="" />
+          <p>Watches</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/F4.jpg" alt="" />
+          <p>Fashion jewellery</p>
+        </div>
+      </div>
+      <a href="">Mega Fashion Days</a>
+    </div>
+    <!-- card 8 -->
+    <div class="card">
+      <div class="cardHeading">
+        Appliances for your home | Up to 55% off
+      </div>
+      <div class="cardContainer">
+        <div class="product">
+          <img decoding="async" src="assets/G1.jpg" alt="" />
+          <p>Air conditioners</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/G2.jpg" alt="" />
+          <p>Refrigerators</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/G3.jpg" alt="" />
+          <p>Microwaves</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/G4.jpg" alt="" />
+          <p>Washing machines</p>
+        </div>
+      </div>
+      <a href="">See more</a>
+    </div>
+    <!-- card 9 -->
+    <div class="card">
+      <div class="cardHeading">Starting ₹99 | Toys for your kids</div>
+      <div class="cardContainer">
+        <div class="product">
+          <img decoding="async" src="assets/H1.jpg" alt="" />
+          <p>Starting ₹299 | Bikes, trikes &amp; ride-ons</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/H2.jpg" alt="" />
+          <p>Starting ₹149 | Sport &amp; outdoor</p>
+        </div>
+        <div class="product">
+          <img decoding="async" src="assets/H3.jpg" alt="" />
+          <p>Starting ₹99 | Soft toys</p>
+        </div>
